@@ -1,0 +1,8 @@
+# Example CodeQL default setup config
+# This file is located at .github/codeql.yml
+# GitHub "default setup" will use this to configure analysis.
+
+name: "Default CodeQL config"
+
+queries:
+  - security-extended
